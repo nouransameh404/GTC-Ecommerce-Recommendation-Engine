@@ -15,7 +15,7 @@ Try the application here:
 
 ## 🔄 Project Workflow
 1. **Data Preprocessing**  
-   - Enhance Amazon review dataset with realistic product names and categories.  
+   - Enhance Amazon review dataset  with realistic product names and categories.  
    - Clean and prepare data for recommendation models.  
 
 2. **Exploratory Analysis**  
